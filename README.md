@@ -86,3 +86,51 @@ Every data point in Signal/Noise is a structured intelligence record:
   "tags": []
 }
 
+## Stack
+
+- **LLM**: OpenAI API — entity extraction and briefing generation
+- **Data**: CDC Open Data, war.gov/ufo, NWS API
+- **Frontend**: HTML / CSS / JS — no framework, fast and readable
+- **Backend**: Node.js or Python — lightweight, no bloat
+- **Map**: Leaflet.js — open-source, embeddable
+
+---
+
+## Project Status
+
+-  Day 1 — Schema defined, seed data loaded, UI plan mapped
+-  Day 2 — LLM pipeline, war.gov PDF parsing (in progress)
+-  Day 3 — Live dashboard, public demo (upcoming)
+
+---
+
+## Why This Exists
+
+The same week the U.S. government told the public to "draw their own conclusions" 
+from 162 classified UAP files, the CDC was quietly monitoring travelers from a 
+cruise ship for hantavirus exposure.
+
+Two anomalous data streams. Zero tools to cross-reference them with rigor.
+
+Signal/Noise exists because the gap between *what happened* and 
+*what was reported* is where the actual story lives — and LLMs are now 
+good enough to map that gap in real time.
+
+---
+
+## Author
+
+**Michael Senno** — Writer, entrepreneur, and AI developer based in Hermosa Beach, CA.  
+Author of *California Gothic*. Founder of Investing Buds.  
+Building at the intersection of language models, public data, and high-signal events.
+
+[GitHub](https://github.com/CalFlash) · [LinkedIn](#) · [Investing Buds](#)
+
+---
+
+*Signal/Noise is not a conspiracy platform. It is a source-classification engine 
+built on public government data. Every claim in this system is traceable to a 
+primary source.*
+
+
+
