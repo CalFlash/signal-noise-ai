@@ -1,0 +1,18 @@
+{
+  "event_id": "unique identifier",
+  "event_type": "UAP | HEALTH | ENVIRONMENTAL",
+  "title": "short title",
+  "date": "YYYY-MM-DD",
+  "location": {
+    "country": "",
+    "state": "",
+    "region": ""
+  },
+  "source_type": "official | news | unverified",
+  "source_url": "",
+  "source_name": "",
+  "summary": "150-word LLM-generated briefing",
+  "confidence": "high | medium | low",
+  "contradicted_by": [],
+  "tags": []
+}
