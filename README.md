@@ -126,6 +126,12 @@ Building at the intersection of language models, public data, and high-signal ev
 
 [GitHub](https://github.com/CalFlash) · [LinkedIn](#) · [Investing Buds](#)
 
+## Dashboard Preview
+
+![Signal/Noise Dashboard](./assets/signal_noise_ui.png)
+
+
+
 ---
 
 *Signal/Noise is not a conspiracy platform. It is a source-classification engine 
